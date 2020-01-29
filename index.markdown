@@ -10,12 +10,12 @@ I have recently finished a Zotero stylesheet for Canadian legal citations and bi
 
 <h2>Intro to Zotero</h2>
 
-1.  create account: go to https://www.zotero.org/ and create a free account.
-2.  install software:  go to https://www.zotero.org/download/ and download the correct version for your operating system (Windows, Mac, Linux)
+1.  create account: go to <a href="https://www.zotero.org/" target="_blank">https://www.zotero.org/</a> and create a free account.
+2.  install software:  go to <a href="https://www.zotero.org/download/" target="_blank">https://www.zotero.org/download/</a> and download the correct version for your operating system (Windows, Mac, Linux)
   - software should also automatically install MS Word addon
-  - for help on the install:  https://www.zotero.org/support/installation
+  - for help on the install:  <a href="https://www.zotero.org/support/installation" target="_blank">https://www.zotero.org/support/installation</a>
 3.  add browser plugins:  from the same URL as #2 above, download and install the browser plugin(s) for Firefox, Chrome and/or Safari.
-4.  add McGill9 stylesheet:  it will be added to Zotero's style repository shortly (already approved, waiting to be copied into the repository).  In the meantime, it can be downloaded from here:  https://raw.githubusercontent.com/gspanglett/McGillBibliographyStylesheet/master/mcgill9-en.csl
+4.  add McGill9 stylesheet:  it will be added to Zotero's style repository shortly (already approved, waiting to be copied into the repository).  In the meantime, it can be downloaded from here:  <a href="https://raw.githubusercontent.com/gspanglett/McGillBibliographyStylesheet/master/mcgill9-en.csl" target="_blank">https://raw.githubusercontent.com/gspanglett/McGillBibliographyStylesheet/master/mcgill9-en.csl</a>
 - right-click on the link above and "save as" to your computer
 
 <h2>How to use Zotero</h2>
