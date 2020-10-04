@@ -26,6 +26,7 @@ It is compliant with the McGill Style Guide (9th ed), and is now available for b
   - see also all Zotero support documentation:  <a href="https://www.zotero.org/support/start" target="_blank" style="font-weight: bold;">https://www.zotero.org/support/start</a>
 	a.  UOttawa library:  <a href="http://uottawa.libguides.com/citation-management/home" target="_blank" style="font-weight: bold;">http://uottawa.libguides.com/citation-management/home</a>
 2.  Canadian legal (McGill) specific usage instructions
+
 	a.  Link to McGill Guide examples:  <a href="https://www.zotero.org/groups/2427436/mcgill_style_guide_examples/library" target="_blank" style="font-weight: bold;">https://www.zotero.org/groups/2427436/mcgill_style_guide_examples/library</a>
   - can be downloaded and used by anyone with Zotero.
   
