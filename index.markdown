@@ -6,7 +6,9 @@ layout: home
 ---
 This is the temporary Github webpage for Gareth Spanglett.
 
-I have recently finished a Zotero stylesheet for Canadian legal citations and bibliographies.  It is compliant with the McGill Style Guide (9th ed).
+I have recently finished a Zotero stylesheet for Canadian legal citations and bibliographies.  
+
+It is compliant with the McGill Style Guide (9th ed), and is now available for both English and French citations.
 
 <h2>Intro to Zotero</h2>
 
@@ -15,8 +17,8 @@ I have recently finished a Zotero stylesheet for Canadian legal citations and bi
   - software should also automatically install MS Word addon
   - for help on the install:  <a href="https://www.zotero.org/support/installation" target="_blank" style="font-weight: bold;">https://www.zotero.org/support/installation</a>
 3.  add browser plugins:  from the same URL as #2 above, download and install the browser plugin(s) for Firefox, Chrome and/or Safari.
-4.  add McGill9 stylesheet:  it will be added to Zotero's style repository shortly (already approved, waiting to be copied into the repository).  In the meantime, it can be downloaded from here:  <a href="https://raw.githubusercontent.com/gspanglett/McGillBibliographyStylesheet/master/mcgill9-en.csl" target="_blank" style="font-weight: bold;">https://raw.githubusercontent.com/gspanglett/McGillBibliographyStylesheet/master/mcgill9-en.csl</a>
-- right-click on the link above and "save as" to your computer
+4.  add McGill style to Zotero:  with Zotero open on your computer, go to <a href="https://www.zotero.org/styles?q=mcgil" tareget="_blank" style="font-weight: bold;">https://www.zotero.org/styles?q=mcgil</a> and click on either the English or French versions of the McGill style.  You can also install both.
+
 
 <h2>How to use Zotero</h2>
 
@@ -24,8 +26,9 @@ I have recently finished a Zotero stylesheet for Canadian legal citations and bi
   - see also all Zotero support documentation:  <a href="https://www.zotero.org/support/start" target="_blank" style="font-weight: bold;">https://www.zotero.org/support/start</a>
 	a.  UOttawa library:  <a href="http://uottawa.libguides.com/citation-management/home" target="_blank" style="font-weight: bold;">http://uottawa.libguides.com/citation-management/home</a>
 2.  Canadian legal (McGill) specific usage instructions
-	a.  Link to McGill Guide examples:  <a href="https://www.zotero.org/groups/2427436/mcgill_style_guide_examples" target="_blank" style="font-weight: bold;">https://www.zotero.org/groups/2427436/mcgill_style_guide_examples</a>
+	a.  Link to McGill Guide examples:  <a href="https://www.zotero.org/groups/2427436/mcgill_style_guide_examples/library" target="_blank" style="font-weight: bold;">https://www.zotero.org/groups/2427436/mcgill_style_guide_examples/library</a>
   - can be downloaded and used by anyone with Zotero.
+    b.  Link to French examples: <a href="https://www.zotero.org/groups/2577414/guide_mcgill_examples_franais/library" target="_blank" style="font-weight: bold;">https://www.zotero.org/groups/2577414/guide_mcgill_examples_franais/library</a>
 	
 <h2>Additional Resources</h2>
 1.  Video intro (Youtube):  <i>coming soon</i>
