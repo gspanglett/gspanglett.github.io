@@ -28,6 +28,7 @@ It is compliant with the McGill Style Guide (9th ed), and is now available for b
 2.  Canadian legal (McGill) specific usage instructions
 	a.  Link to McGill Guide examples:  <a href="https://www.zotero.org/groups/2427436/mcgill_style_guide_examples/library" target="_blank" style="font-weight: bold;">https://www.zotero.org/groups/2427436/mcgill_style_guide_examples/library</a>
   - can be downloaded and used by anyone with Zotero.
+  
     b.  Link to French examples: <a href="https://www.zotero.org/groups/2577414/guide_mcgill_examples_franais/library" target="_blank" style="font-weight: bold;">https://www.zotero.org/groups/2577414/guide_mcgill_examples_franais/library</a>
 	
 <h2>Additional Resources</h2>
